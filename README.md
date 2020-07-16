@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 
 ## Restults
 
->Fixed broken navigation links
->Added semantic HTML tags
->Add code comments to CSS and HTML
->Made CSS easier to maintian 
+* Fixed broken navigation links
+* Added semantic HTML tags
+* Add code comments to CSS and HTML
+* Made CSS easier to maintian 
