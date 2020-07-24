@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# Code Refactor
 
 Given: HTML with divs and no semantic HTML, CSS not following best practices
 
